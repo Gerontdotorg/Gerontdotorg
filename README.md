@@ -11,6 +11,10 @@ Hi, I’m Govind Prakash! Welcome to my GitHub space. I Here, you’ll find my p
 ### **AI and Deep learning in ageing research**
 Deep learning (DL) and artificial intelligence (AI) have revolutionized aging research by enabling precise analysis of biological data to predict biological age, identify biomarkers, and model complex aging pathways. AI-powered aging clocks, such as those based on DNA methylation, transcriptomics, or proteomics, estimate biological age more accurately than traditional methods. In drug discovery, AI accelerates the identification of compounds targeting aging mechanisms, including senolytics and geroprotectors. These technologies also analyze large-scale single-cell and imaging data to understand cellular senescence and tissue-level changes with age. Furthermore, AI integrates multi-omics data to unravel the intricate interactions between genetics, environment, and aging-related diseases. With its capacity to simulate interventions and predict personalized outcomes, AI holds immense potential for advancing longevity science and addressing the root causes of age-associated diseases.
 
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GASaqPv0t0g" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### **Connect with me:**
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/drgovindprakash)
 ](https://www.twitter.com/drgovindprakash)
