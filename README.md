@@ -2,12 +2,6 @@
   <img width="100%" src="https://github.com/Gerontdotorg/Gerontdotorg/blob/main/Media/geront.org.png?raw=true">
 </a>
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GASaqPv0t0g" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-
 ## **Biography**
 
 Hi, I’m Govind Prakash! Welcome to my GitHub space. I Here, you’ll find my personal projects, bioinformatics scripts, and pipelines that I use in my daily work. I’m passionate about aging science and coding,  and I’m always open to collaborations. If you’re working on a project related to aging or anti-aging research, feel free to reach out—I’d love to contribute or be part of your journey. Follow my GitHub for updates on my projects and useful scripts. Let’s build and discover together!
@@ -16,10 +10,6 @@ Hi, I’m Govind Prakash! Welcome to my GitHub space. I Here, you’ll find my p
 
 ### **AI and Deep learning in ageing research**
 Deep learning (DL) and artificial intelligence (AI) have revolutionized aging research by enabling precise analysis of biological data to predict biological age, identify biomarkers, and model complex aging pathways. AI-powered aging clocks, such as those based on DNA methylation, transcriptomics, or proteomics, estimate biological age more accurately than traditional methods. In drug discovery, AI accelerates the identification of compounds targeting aging mechanisms, including senolytics and geroprotectors. These technologies also analyze large-scale single-cell and imaging data to understand cellular senescence and tissue-level changes with age. Furthermore, AI integrates multi-omics data to unravel the intricate interactions between genetics, environment, and aging-related diseases. With its capacity to simulate interventions and predict personalized outcomes, AI holds immense potential for advancing longevity science and addressing the root causes of age-associated diseases.
-
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GASaqPv0t0g" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 ### **Connect with me:**
