@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@GovindPrakash">
-  <img width="100%" src="https://github.com/Gerontdotorg/Gerontdotorg/blob/main/Media/geront.org.png?raw=true">
+  <img width="100%" src="https://github.com/Gerontdotorg/Gerontdotorg/blob/main/Media/Geront%20Banner%20Org.jpg?raw=true?raw=true">
 </a>
 
 ## **Biography**
